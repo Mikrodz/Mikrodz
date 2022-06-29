@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Mikrodz/Mikrodz/blob/master/devcard.svg" width="400" alt="Miguel Rodriguez's Dev Card"/></a>
 
 <!--
 **Mikrodz/Mikrodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
