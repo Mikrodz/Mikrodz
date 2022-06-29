@@ -1,0 +1,7 @@
+version: 2
+updates:
+  #mantiene dependencias para Actions de Github
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
