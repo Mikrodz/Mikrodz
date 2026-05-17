@@ -1,4 +1,12 @@
-<div align="center"><a href="https://app.daily.dev/Mikrod"><img src="https://github.com/Mikrodz/Mikrodz/blob/main/devcard.svg" width="500" alt="Miguel Rodriguez's Dev Card"/></a></div>
+<div align="center">
+<!--
+<a href="https://app.daily.dev/Mikrod"><img src="https://github.com/Mikrodz/Mikrodz/blob/main/devcard.svg" width="500" alt="Miguel Rodriguez's Dev Card"/></a>
+-->
+
+<a href="https://app.daily.dev/mikrod"><img src="https://api.daily.dev/devcards/v2/4gWgia1UcOEFl6FPGYksK.png?type=default&r=5qv" width="356" alt="Mik's Dev Card"/></a>
+
+</div>
+
 
 <!--
 **Mikrodz/Mikrodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
