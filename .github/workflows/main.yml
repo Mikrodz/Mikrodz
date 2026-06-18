@@ -37,7 +37,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       # - uses: actions/checkout@v3
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.2
+        uses: dailydotdev/action-devcard@2.2.0
         with: 
           devcard_id: ${{ secrets.DEVCARD_ID }}
 
